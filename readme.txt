@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Try again the dev.
 Creating a new branch is quick AND simple.
+Try --n0-ff.
